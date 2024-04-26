@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#789D0E</color>
+    <color name="bottom_gray">#7E8379</color>
+    <color name="black_trans30">#4D000000</color>
+    <color name="text_color">#121A08</color>
+    <color name="et_color">#F9F9F8</color>
+    <color name="stroke">#EBECE9</color>
+    <color name="item_bg">#F6FCEE</color>
+    <color name="red">#F04438</color>
+    <color name="indicator_inactive">#DDDEDA</color>
+    
+    <color name="loading_card">#F6FCEE</color>
+</resources>

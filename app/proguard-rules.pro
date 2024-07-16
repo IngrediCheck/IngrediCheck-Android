@@ -19,3 +19,22 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+
+-keep class com.android.ingredicheck.ResponceModelClass.** { *; }
+
+-keepnames class kotlin.** { *; }
+-keepnames class io.** { *; }
+-keepnames class kotlinx.** { *; }
+-keepnames class korlibs.** { *; }
+-keepnames class okhttp3.** { *; }
+-keepnames class dev.** { *; }
+-keepnames class javax.** { *; }
+-keepnames class ir.** { *; }
+-keepnames class androidx.** { *; }
+-keepnames class android.** { *; }
+-keepnames class java.** { *; }
+-keepnames class kotlin.** { *; }
+-keepnames class kotlinx.** { *; }
+-keepnames class org.** { *; }
+-keepnames class com.google.mlkit** { *; }

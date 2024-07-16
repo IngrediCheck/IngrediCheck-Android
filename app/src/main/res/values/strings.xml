@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">IngrediCheck</string>
+    <string name="log_t1">Personalize your dietary preferences</string>
+    <string name="log_t2">Simplify your food label checks</string>
+    <string name="log_t3">Never forget your favorite items again.</string>
+    <string name="log_dic1">Enter dietary needs in plain language to tailor your food choices</string>
+    <string name="log_dic2">Scan barcodes for a detailed breakdown of ingredients</string>
+    <string name="log_dic3">Save items to your custom list for quick access and easy reference</string>
+    <string name="supa_url">https://wqidjkpfdrvomfkmefqc.supabase.co</string>
+    <string name="supa_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndxaWRqa3BmZHJ2b21ma21lZnFjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDczNDgxODksImV4cCI6MjAyMjkyNDE4OX0.sgRV4rLB79VxYx5a_lkGAlB2VcQRV2beDEK3dGH4_nI</string>
+    <string name="welcome_to_ingradi">Welcome to IngrediCheck! Thanks for choosing IngrediCheck! Our AI helps match foods to your dietary needs. While our AI is constantly learning, it\'s not perfect—please double-check product labels to ensure they meet your specific requirements.\n\nYour feedback is vital—it trains our AI to be more accurate. Spot a mistake or have a suggestion? Let us know and help improve everyone\'s shopping experience!</string>
+    <string name="welcome_to">Welcome to IngrediCheck!</string>
+    <string name="text1">“Avoid **Gluten**”</string>
+    <string name="text2">No **Palm oil** for me</string>
+    <string name="text3">No **animal products**, but **eggs** &amp; **dairy** are ok</string>
+    <string name="text4">No **peanuts** but other **nuts** are ok</string>
+    <string name="text5">I don\'t like **pine nuts**</string>
+    <string name="text6">I can\'t stand **garlic**</string>
+
+    <string name="bucket_image">productimages</string>
+    <string name="no_datapro">You found a Product that is not in our Database. Submit Product Images and Earn IngrediPoints\u00A9!</string>
+
 </resources>

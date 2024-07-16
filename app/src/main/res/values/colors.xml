@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="green">#789D0E</color>
-    <color name="bottom_gray">#7E8379</color>
-    <color name="black_trans30">#4D000000</color>
-    <color name="text_color">#121A08</color>
-    <color name="et_color">#F9F9F8</color>
-    <color name="stroke">#EBECE9</color>
-    <color name="item_bg">#F6FCEE</color>
-    <color name="red">#F04438</color>
-    <color name="indicator_inactive">#DDDEDA</color>
-    
-    <color name="loading_card">#F6FCEE</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#F2212121</color>
+    <color name="colorAccent">#FFE543B0</color>
+
+    <color name="color_font">#4F5449</color>
+    <color name="color_lightfont">#7E8379</color>
+    <color name="color_appgreen">#789D0E</color>
+    <color name="color_red">#DD2C00</color>
+    <color name="color_unselectback">#33789D0E</color>
+    <color name="color_unselectred">#33DD2C00</color>
+    <color name="color_unselect">#00789D0E</color>
+    <color name="color_grey">#DDDEDA</color>
+    <color name="color_line">#A3A4A2</color>
+    <color name="color_back">#65DCDDD9</color>
+    <color name="color_menuback">#F1F1F1</color>
+    <color name="color_dialogback">#0D000000</color>
+
 </resources>
